@@ -8,6 +8,7 @@ This project involves converting three JSON files into CSV format using the powe
 In this project, we aimed to transform raw JSON data into a more structured and analyzable format, namely CSV. We utilized the Pandas library in Python to achieve this goal. Additionally, data cleaning and preprocessing were performed to ensure the data's quality and reliability for further analysis.
 
 # PROJECT APPLICATION -->
+Selects playing 11 for a country on the basis of historical data and stats by analyzing patterns.
 
 
 # TECHNOLOGY USED -->
